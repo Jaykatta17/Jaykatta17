@@ -87,22 +87,22 @@ class SecurityEngineer:
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jaykatta17/Jaykatta17/profile-summary-card-output/profile-summary-card-output/github_dark/0-profile-details.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jaykatta17/Jaykatta17/profile-summary-card-output/profile-summary-card-output/default/0-profile-details.svg">
-    <img src="https://raw.githubusercontent.com/Jaykatta17/Jaykatta17/profile-summary-card-output/profile-summary-card-output/default/0-profile-details.svg" alt="Profile details">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jaykatta17/Jaykatta17/main/profile-summary-card-output/github_dark/0-profile-details.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jaykatta17/Jaykatta17/main/profile-summary-card-output/default/0-profile-details.svg">
+    <img src="https://raw.githubusercontent.com/Jaykatta17/Jaykatta17/main/profile-summary-card-output/default/0-profile-details.svg" alt="Profile details">
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jaykatta17/Jaykatta17/profile-summary-card-output/profile-summary-card-output/github_dark/3-stats.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jaykatta17/Jaykatta17/profile-summary-card-output/profile-summary-card-output/default/3-stats.svg">
-    <img height="200" src="https://raw.githubusercontent.com/Jaykatta17/Jaykatta17/profile-summary-card-output/profile-summary-card-output/default/3-stats.svg" alt="Contribution stats">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jaykatta17/Jaykatta17/main/profile-summary-card-output/github_dark/3-stats.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jaykatta17/Jaykatta17/main/profile-summary-card-output/default/3-stats.svg">
+    <img height="200" src="https://raw.githubusercontent.com/Jaykatta17/Jaykatta17/main/profile-summary-card-output/default/3-stats.svg" alt="Contribution stats">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jaykatta17/Jaykatta17/profile-summary-card-output/profile-summary-card-output/github_dark/1-repos-per-language.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jaykatta17/Jaykatta17/profile-summary-card-output/profile-summary-card-output/default/1-repos-per-language.svg">
-    <img height="200" src="https://raw.githubusercontent.com/Jaykatta17/Jaykatta17/profile-summary-card-output/profile-summary-card-output/default/1-repos-per-language.svg" alt="Top languages">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jaykatta17/Jaykatta17/main/profile-summary-card-output/github_dark/1-repos-per-language.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jaykatta17/Jaykatta17/main/profile-summary-card-output/default/1-repos-per-language.svg">
+    <img height="200" src="https://raw.githubusercontent.com/Jaykatta17/Jaykatta17/main/profile-summary-card-output/default/1-repos-per-language.svg" alt="Top languages">
   </picture>
 </p>
 
