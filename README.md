@@ -86,8 +86,24 @@ class SecurityEngineer:
 </p>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Jaykatta17&show_icons=true&hide_border=true&bg_color=00000000&title_color=0969da&icon_color=0969da&text_color=6e7781&count_private=true" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaykatta17&layout=compact&hide_border=true&bg_color=00000000&title_color=0969da&text_color=6e7781&langs_count=6" alt="Top languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jaykatta17/Jaykatta17/profile-summary-card-output/profile-summary-card-output/github_dark/0-profile-details.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jaykatta17/Jaykatta17/profile-summary-card-output/profile-summary-card-output/default/0-profile-details.svg">
+    <img src="https://raw.githubusercontent.com/Jaykatta17/Jaykatta17/profile-summary-card-output/profile-summary-card-output/default/0-profile-details.svg" alt="Profile details">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jaykatta17/Jaykatta17/profile-summary-card-output/profile-summary-card-output/github_dark/3-stats.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jaykatta17/Jaykatta17/profile-summary-card-output/profile-summary-card-output/default/3-stats.svg">
+    <img height="200" src="https://raw.githubusercontent.com/Jaykatta17/Jaykatta17/profile-summary-card-output/profile-summary-card-output/default/3-stats.svg" alt="Contribution stats">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jaykatta17/Jaykatta17/profile-summary-card-output/profile-summary-card-output/github_dark/1-repos-per-language.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jaykatta17/Jaykatta17/profile-summary-card-output/profile-summary-card-output/default/1-repos-per-language.svg">
+    <img height="200" src="https://raw.githubusercontent.com/Jaykatta17/Jaykatta17/profile-summary-card-output/profile-summary-card-output/default/1-repos-per-language.svg" alt="Top languages">
+  </picture>
 </p>
 
 <p align="center">
