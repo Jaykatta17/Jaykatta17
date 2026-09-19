@@ -1,4 +1,8 @@
 import math
+from pathlib import Path
+
+
+OUTPUT_DIR = Path(__file__).resolve().parent
 
 # --- monogram, drawn as stroked paths (font-independent) --------------------
 # Natural bounding box of the artwork below, including stroke width:
@@ -76,7 +80,7 @@ D = f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512
 </svg>'''
 
 for name, svg in [("a-shield",A),("b-hex",B),("c-terminal",C),("d-chain",D)]:
-    open(f"{name}.svg","w").write(svg)
-    open(f"{name}.html","w").write(
+    (OUTPUT_DIR / f"{name}.svg").write_text(svg)
+    (OUTPUT_DIR / f"{name}.html").write_text(
         f'<html><body style="margin:0;width:512px;height:512px">{svg}</body></html>')
 print("regenerated 4 variants")
