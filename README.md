@@ -82,10 +82,6 @@ class SecurityEngineer:
 ### 📊 Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jaykatta17&bg_color=00000000&color=6e7781&line=0969da&point=0969da&area=true&area_color=0969da&title_color=0969da&hide_border=true&days=90" alt="Contribution activity graph" />
-</p>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jaykatta17/Jaykatta17/main/profile-summary-card-output/github_dark/0-profile-details.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jaykatta17/Jaykatta17/main/profile-summary-card-output/default/0-profile-details.svg">
